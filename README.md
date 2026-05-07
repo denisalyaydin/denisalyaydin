@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Denis Alyaydin</h1>
+<p align="center">
+  Software Engineering Student
+</p>
 
-<!--
-**denisalyaydin/denisalyaydin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📚 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently pursuing a Bachelor's degree in Software Engineering at **VTU "St. Cyril and St. Methodius"**. I love taking on new challenges and constantly expanding my knowledge.
+
+
+- 🧠 Motivated to improve my technical and problem-solving skills
+- 💡 Motivated to learn new technologies and improve every day
+- 💬 Quick learner, team player, and detail-oriented person 
+---
+### 📬 Contact Me
+
+- 📧 Email: alyaydindenis@gmail.com
